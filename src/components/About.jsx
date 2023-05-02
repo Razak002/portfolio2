@@ -75,7 +75,6 @@ function About() {
                   onClick={() => openLightboxOnSlide(2)}
                 />
               </div>
-
             </div>
           </div>
         </div>
